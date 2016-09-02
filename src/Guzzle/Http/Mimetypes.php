@@ -19,6 +19,7 @@ class Mimetypes
         '7z' => 'application/x-7z-compressed',
         'aab' => 'application/x-authorware-bin',
         'aac' => 'audio/x-aac',
+        'aac' => 'audio/x-hx-aac-adts',
         'aam' => 'application/x-authorware-map',
         'aas' => 'application/x-authorware-seg',
         'abw' => 'application/x-abiword',
